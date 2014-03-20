@@ -1,0 +1,31 @@
+{
+  "name": "dungeon",
+  "version": "0.0.0",
+  "description": "A level generator for 2d games",
+  "homepage": "https://github.com/mkgh/dungeon",
+  "license": "MIT",
+  "main": "dungeon.js",
+  "author": {
+    "name": "Michael Keating",
+    "email": "humanoidanalog@gmail.com",
+    "url": "http://mkgh.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkgh/leveler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkgh/leveler/issues",
+    "email": "humanoidanalog@gmail.com"
+  },
+  "keywords": [
+    "2d",
+    "level",
+    "map",
+    "generator",
+    "level generator",
+    "map generator",
+    "turn-based",
+    "games"
+  ],
+}
